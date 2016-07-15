@@ -1,0 +1,14 @@
+i18n=> | en | zh-cmn-Hans | zh-cmn-Hant
+home | home | 主页 | 主頁
+login | login | 登录 | 登錄
+regist| regist | 注册 | 註冊
+logout | logout | 退出 | 退出
+blog | blog | 博客 | 博客
+username | username | 用户名 | 用戶名
+password | password | 密码 | 密碼
+email | email | 邮箱 | 郵箱
+comment | comment | 评论 | 評論
+edit | edit | 编辑 | 編輯
+remove | remove | 删除 | 刪除
+delete | delete | 删除 | 刪除
+add | add | 增加 | 增加

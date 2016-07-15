@@ -1,0 +1,5 @@
+profile | profile | 个人资料 | 個人資料
+language | language | 语言 | 語言
+country | country | 国家 | 國家
+passage | passage | 文章 | 文章
+settings | settings | 设置 | 設置
